@@ -1,0 +1,8 @@
+weights/
+models/
+ProPainter/
+XMem/
+*.pth
+*.pt
+*.ckpt
+*.env
